@@ -77,7 +77,7 @@ I'm a passionate **Frontend Developer** specializing in **React, Next.js, and Ty
 
 [![Email](https://img.shields.io/badge/Email-ayeshanaved23@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayeshanaved23@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayesha_Naveed-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayeshanaweed)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View%20My%20Work-FF7139?style=for-the-badge&logo=vercel&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View%20My%20Work-FF7139?style=for-the-badge&logo=vercel&logoColor=white)](https://www.ayesha-naveed.space)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/clockworkaiesh)
 
 </div>
