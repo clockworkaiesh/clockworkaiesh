@@ -50,21 +50,6 @@ I'm a passionate **Frontend Developer** specializing in **React, Next.js, and Ty
 ![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socket.io&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
----
-
-### 📊 **GitHub Stats**
-
-<div align="center">
-  
-  ![Ayesha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AyeshaNaveed&show_icons=true&theme=radical&hide_border=true)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AyeshaNaveed&layout=compact&theme=radical&hide_border=true)
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AyeshaNaveed&theme=radical&hide_border=true)
-
-</div>
-
----
 
 ### 🏆 **Recent Work Highlights**
 
@@ -76,32 +61,6 @@ I'm a passionate **Frontend Developer** specializing in **React, Next.js, and Ty
 | **Modular Design System** | Stitches JS, React | Reduced code duplication by **30%** |
 | **UI Revamp** | Tailwind, Figma | Increased user engagement by **20%** |
 
----
-
-### 📌 **Featured Projects**
-
-#### 🔗 **[Portfolio/Showcase Project 1]**
-> *Brief description of a notable project*
-> **Tech:** React, Next.js, TypeScript, Tailwind
-> ![Stars](https://img.shields.io/github/stars/AyeshaNaveed/project-1?style=social)
-
-#### 🔗 **[Portfolio/Showcase Project 2]** 
-> *Brief description of another project*
-> **Tech:** React, D3.js, WebSocket
-> ![Stars](https://img.shields.io/github/stars/AyeshaNaveed/project-2?style=social)
-
-#### 🔗 **[Open Source Contribution]**
-> *Description of your contribution*
-> **Tech:** React, TypeScript
-> ![PRs](https://img.shields.io/github/issues-pr/AyeshaNaveed/repo?style=social)
-
----
-
-### 📈 **Activity Graph**
-
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=AyeshaNaveed&theme=github-dark&hide_border=true&area=true)
-
----
 
 ### 🎯 **What I Bring to the Table**
 - **🎨 Pixel-Perfect Implementation** – Figma/XD to responsive React components
@@ -136,19 +95,8 @@ I'm a passionate **Frontend Developer** specializing in **React, Next.js, and Ty
 
 ---
 
-⭐ *From [Ayesha Naveed](https://github.com/AyeshaNaveed)*
+⭐ *From [Ayesha Naveed](https://github.com/clockworkaiesh)*
 
-## 📊 GitHub Stats & Trophies
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=clockworkaiesh&show_icons=true&theme=github_dark&hide_border=true&count_private=true&cache_seconds=86400" alt="clockworkaiesh's GitHub Stats" width="49%" />
-  <img src="https://streak-stats.demolab.com/?user=clockworkaiesh&theme=github_dark&hide_border=true&cache_seconds=86400" alt="clockworkaiesh's GitHub Streak" width="49%" />
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=clockworkaiesh&theme=github_dark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Ayesha Naveed's GitHub Trophies" />
-</p>
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=clockworkaiesh&theme=github_dark&radius=10" alt="clockworkaiesh's Activity Graph" />
-</p>
 
 
 ## 🛠️ Languages & Tools
@@ -165,9 +113,6 @@ I'm a passionate **Frontend Developer** specializing in **React, Next.js, and Ty
 > ## Tools
 <p align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="Webpack" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="48" height="48" style="margin: 4px;" /></p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=clockworkaiesh&layout=compact&theme=github_dark&hide_border=true&langs_count=10&cache_seconds=86400" alt="Top Languages" />
-</p>
 
 ## 🔗 Connect with Me
 <p align="center"><a href="https://www.linkedin.com/in/ayeshanaveed" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a> <a href="https://wa.me/5073081479194" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/WhatsApp.svg" alt="WhatsApp" width="40" height="40" style="margin: 0 8px;"/></a> <a href="mailto:ayeshanaved23@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a> <a href="https://www.ayesha-naveed.space" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/WWW.svg" alt="Website" width="40" height="40" style="margin: 0 8px;"/></a></p>
